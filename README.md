@@ -38,6 +38,6 @@ I am a Programmer and Game-Developer who loves to make indie games and projects 
 
 ### ⚓ Why am i adding this🙃
 
-![Rafiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=q4rafiul&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=q4rafiul&include_all_commits=true&theme=radical&count_private=true&show_icons=true" alt="Rafiul's Github Stats" height="180em">&nbsp;&nbsp;
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=q4rafiul&theme=gruvbox&border_radius=4.5) -->
