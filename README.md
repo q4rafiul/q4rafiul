@@ -11,7 +11,6 @@ I am a Programmer and Game-Developer who loves to make indie games and projects 
 **`>`**&nbsp; &nbsp;
 <a href="https://www.python.org/"><img align="center" alt="Python" width="26px" height="26px" style="padding-bottom: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></a>&nbsp; &nbsp;
 <a href="https://www.javascript.com/"><img align="center" alt="JavaScript" width="26px" height="26px" style="padding-bottom: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>&nbsp; &nbsp;
-<a href="https://www.typescriptlang.org/"><img align="center" alt="TypeScript" width="26px" height="26px" style="padding-bottom: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>&nbsp; &nbsp;
 <a href="https://isocpp.org//"><img align="center" alt="C++" width="26px" height="26px" style="padding-bottom: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /></a>&nbsp; &nbsp;
 <a href="https://www.mathworks.com/products/matlab.html"><img align="center" alt="MATLAB" width="26px" height="26px" style="padding-bottom: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /></a>&nbsp; &nbsp;
 <a href="https://git-scm.com/"><img align="center" alt="Git" width="26px" height="26px" style="padding-bottom: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>&nbsp; &nbsp;
@@ -29,7 +28,7 @@ I am a Programmer and Game-Developer who loves to make indie games and projects 
 <a href="https://www.solidworks.com//"><img align="center" alt="SolidWorks" width="26px" height="26px" style="padding-bottom: 2px;" src="./assets/images/solidworks.svg" /></a>&nbsp; &nbsp;
 **`MicroController and PCB Design >`**&nbsp; &nbsp;
 <a href="https://www.arduino.cc/"><img align="center" alt="Arduino" width="26px" height="26px" style="padding-bottom: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></a>&nbsp; &nbsp;
-<a href="https://www.raspberrypi.com/"><img align="center" alt="RaspberryPI" width="26px" height="26px" style="padding-bottom: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></a>&nbsp; &nbsp;
+<a href="https://www.labcenter.com/"><img align="center" alt="Proteus" width="26px" height="26px" style="padding-bottom: 2px;" src="./assets/images/proteus.png" /></a>&nbsp; &nbsp;
 <a href="https://www.altium.com/altium-designer/"><img align="center" alt="Altium" width="26px" height="26px" style="padding-bottom: 2px;" src="./assets/images/altium-designer.svg" /></a>&nbsp; &nbsp;
 **`Others >`**&nbsp; &nbsp;
 <a href="https://processing.org/"><img align="center" alt="Processing" width="26px" height="26px" style="padding-bottom: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" /></a>&nbsp; &nbsp;
